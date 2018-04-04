@@ -1,5 +1,6 @@
 #Custom
 pelicanconf_local.py
+output
 
 #Python
 *.py[cod]
